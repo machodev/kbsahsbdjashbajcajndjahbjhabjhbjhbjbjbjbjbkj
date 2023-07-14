@@ -4,8 +4,12 @@ p{
     font-weight: bold;
     font-size: 40px;
     background-color: red;
+    
 }
 
 div{
     background-color: green;
+}
+ul{
+    background-color: yellow;
 }
